@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+
+<html>
+ 
+   <head>
+           
+          <title>New Beginnings</title>
+
+   </head>
+
+   <body style="background-color:skyblue">
+
+         <h1> Welcome to HTML</h1>
+
+         <br/>
+
+         <p title='Hello World'>My first html program </p>
+
+         <br>
+
+         <p>Hello there!</p>
+
+         <p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948</p>
+
+         <a href="http://www.w3schools.com"</a>Click here to learn html
+
+
+   </body>
+
+</html>
